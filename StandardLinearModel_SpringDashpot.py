@@ -1,6 +1,6 @@
 #######################################################################################
 ## Ning An, March 2021
-## http://www.anning003.com/standard-linear-viscoelastic-model
+## http://www.anning003.com/modeling-viscoelasticity-in-abaqus
 ## Modeling standard linear viscoelastic material using spring and dashpot elements.
 #######################################################################################
 # -*- coding: mbcs -*-
